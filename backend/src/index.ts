@@ -40,5 +40,3 @@ app.listen(PORT,()=>{
 })
 
 startDashboard();
-
-export default app;
